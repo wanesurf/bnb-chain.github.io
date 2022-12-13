@@ -43,8 +43,6 @@ BSC RPC Endpoints:
 
 <!--* [Moralis](https://moralis.io/): <https://moralis.io/speedy-nodes/>-->
 
-* NodeReal: <https://docs.nodereal.io/nodereal/meganode/introduction>
-
 * Ankr: <https://app.ankr.com/api>
 
 * Chainstack: <https://chainstack.com/build-better-with-binance-smart-chain/>
